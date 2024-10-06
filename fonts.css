@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'evogriaregular';
+    src: url('evogria.woff2') format('woff2'),
+         url('evogria.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kadwa-Regular';
+    src: url('Kadwa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kadwa-Bold';
+    src: url('Kadwa-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+}
