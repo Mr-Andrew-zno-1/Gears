@@ -1,0 +1,28 @@
+<root>
+	<gameName> </gameName>
+	<endpoints>
+		<timestamp>https://everydev.etcetera.org.ua/menu/saves/timestamp.php</timestamp>
+		<getSave>https://everydev.etcetera.org.ua/menu/saves/get.php</getSave>
+		<setSave>https://everydev.etcetera.org.ua/menu/saves/set.php</setSave>
+		<buy>https://everydev.etcetera.org.ua/menu/saves/buy.php</buy>
+		<donate>https://everydev.etcetera.org.ua/menu/saves/donate.php</donate>
+		
+		<setLeaders>https://everydev.etcetera.org.ua/menu/saves/setLeaders.php</setLeaders>
+		<getLeaders>https://everydev.etcetera.org.ua/menu/saves/getLeaders.php</getLeaders>
+	</endpoints>
+	<donatePrices>
+		<coins>
+			<donate amount="5000">100</donate>
+			<donate amount="25000">150</donate>
+			<donate amount="50000">500</donate>
+			<donate amount="100000">1500</donate>
+		</coins>
+		<glory>
+			<donate amount="100000">100</donate>
+			<donate amount="500000">300</donate>
+			<donate amount="1000000">900</donate>
+			<donate amount="5000000">1500</donate>
+		</glory>
+		<idle_x3>30</idle_x3>
+	</donatePrices>
+</root>
